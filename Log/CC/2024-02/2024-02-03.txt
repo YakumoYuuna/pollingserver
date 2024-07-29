@@ -1,2 +1,0 @@
-操作时间：2024-02-03 14:58:42  内容：{"Result":{"ResponseStatus":{"IsSuccess":true,"Errors":[],"SuccessEntitys":[{"Id":100013,"Number":"QTRK000010","DIndex":0}],"SuccessMessages":[],"MsgCode":0},"Id":100013,"Number":"QTRK000010","NeedReturnData":[{}]}}
-操作时间：2024-02-03 15:02:07  内容：{"Result":{"ResponseStatus":{"IsSuccess":true,"Errors":[],"SuccessEntitys":[{"Id":100014,"Number":"QTRK000011","DIndex":0}],"SuccessMessages":[],"MsgCode":0},"Id":100014,"Number":"QTRK000011","NeedReturnData":[{}]}}
